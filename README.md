@@ -1,6 +1,6 @@
 **PyTorch for Machin Learning & Deep Learning**
 
-**PyTorch_Fundamentals:**<br/>
+**PyTorch_Fundamentals.ipynb⏬**<br/>
 **1️⃣ CPU (Central Processing Unit) & GPU (Graphics Processing Unit):**
 - `CPU`
   - Designed for general-purpose computing.
